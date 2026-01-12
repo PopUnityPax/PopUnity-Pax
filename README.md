@@ -6,7 +6,10 @@
 [![SDG 16](https://img.shields.io/badge/UN%20SDG-16%3A%20Peace%20%26%20Justice-009edb)](https://sdgs.un.org/goals/goal16)
 
 **A next-gen communication platform** that flips toxic social media into real empathy bridges. Connect across divides, share peace stories, and spark unity with guided chats, AI kindness nudges, and a global peace map. Built for youth, activists, and anyone tired of online rage.
-[![Alt Text](https://github.com/PopUnityPax/PopUnity-Pax/blob/main/68a8bf36-4695-485e-8748-7543ed210ed8.jpg "Optional Title")]
+
+![Alt Text](https://github.com/PopUnityPax/PopUnity-Pax/blob/main/68a8bf36-4695-485e-8748-7543ed210ed8.jpg "Optional Title")
+
+
 **Currently in vision & prototype stage** – applying for Unity for Humanity 2026 grant to build the MVP! 🚀
 
 ## Why PopUnity Pax? 🔥
